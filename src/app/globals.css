@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-red-200{
+    color:red
+}
+/* opper wali teno directive hai sab styling in me hai */
