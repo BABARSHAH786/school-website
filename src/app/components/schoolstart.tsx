@@ -7,7 +7,7 @@ import swim from '../../../public/swim.jpg';
 import indepent from '../../../public/inedepent.jpg';
 import cricket from '../../../public/cricket.jpg';
 import schoool from '../../../public/schoool.jpg';
-import schoool1 from '../../../public/schoool.jpg';
+// import schoool1 from '../../../public/schoool.jpg';
 
 
 
@@ -22,7 +22,7 @@ export default function SchoolPic() {
           <div className="flex ">
             <div className="w-1/2 ml-5 ">
               <h2 className="text-blue-500 font-bold text-[30px]">
-                A community of lifelon 'g learners, responsible global citizens, and
+                A community of lifelon &apos;g learners, responsible global citizens, and
                 champions of our own success.
               </h2>
               <p className="text-blue-500 font-bold text-[25px]">
@@ -43,7 +43,7 @@ export default function SchoolPic() {
   
         <div className="image-text1">
           <h3 className="center">
-            Working collaboratively to ensure eve'ry student achieves academically,
+            Working collaboratively to ensure every student achieves academically,
             socially, and emotionally.
           </h3>
         </div>
