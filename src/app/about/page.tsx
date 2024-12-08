@@ -3,14 +3,6 @@ export default async function NavBar(){
     setTimeout(resolve,5000);
 
   })
-  
-
-
-
-
-
-
-
 
   return (
     <div>
